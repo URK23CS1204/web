@@ -1,3 +1,3 @@
 # personal profile page
 
-My name is Vangala Sharon
+My name is Vangala Sharon.
